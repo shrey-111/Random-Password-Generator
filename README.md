@@ -11,7 +11,7 @@ This is a Random Password Generator website created using HTML & CSS
 - HTML 5
 - CSS custom properties
 ### Links
-- Live Site URL: [@GitHub](https://htmlpreview.github.io/?https://github.com/xdelmo/random-password-generator/blob/master/index.html)
+- Live Site URL: [@GitHub](https://shrey-111.github.io/Random-Password-Generator/)
   
 
   
