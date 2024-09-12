@@ -6,7 +6,7 @@ This is a Random Password Generator website created using HTML & CSS
 - Copy passwords to the clipboard clicking on the them
 - See hover states for interactive elements
 - ### Screenshot
-- ![Screenshot 2024-09-12 104714](https://github.com/user-attachments/assets/f84033f2-1136-45e5-9f65-db2caced3913)
+ ![Screenshot 2024-09-12 104714](https://github.com/user-attachments/assets/f84033f2-1136-45e5-9f65-db2caced3913)
   ## Built with
 - HTML 5
 - CSS custom properties
